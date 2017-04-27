@@ -1,3 +1,3 @@
 # new-repo
 hi this is hrishi
-working in NBNSCOE solapr
+working in NBNSCOE solapur
